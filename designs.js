@@ -5,7 +5,7 @@
 
 function makeGrid(height, width) {
 
-// Your code goes here!
+
   var html = "";
   for(var i = 0; i < height; i++){
     html += "<tr>";
